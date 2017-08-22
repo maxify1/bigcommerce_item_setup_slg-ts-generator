@@ -1,0 +1,1 @@
+# bigcommerce_item_setup_slg-ts-generator
